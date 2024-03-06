@@ -1,0 +1,10 @@
+1 : Total Planes
+2 : Samples
+3 : Max Bounces
+
+-20, 10, -30
+-20, 70, 30
+20, 70, -30
+70 : Roughness
+234, 108, 115 : RGB
+0, 0, 0 : RGB Luminance
